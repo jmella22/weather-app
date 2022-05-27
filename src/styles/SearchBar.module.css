@@ -1,0 +1,38 @@
+.text {
+  font-size: 32px;
+  color: #f1edee;
+  margin: 10px 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin: 10px 10px;
+}
+.input {
+  display: inline-block;
+  border-radius: 15px 0 0 15px;
+  font-size: 16px;
+  padding: 5px 15px;
+  border: none;
+}
+.input:focus {
+  outline: none;
+}
+.button {
+  display: inline-block;
+  padding: 5px 15px;
+  color: #f1edee;
+  cursor: pointer;
+  letter-spacing: 1.2px;
+  border-radius: 0 15px 15px 0;
+  background-color: #3d5467;
+  border: none;
+  font-size: 16px;
+}
+.button:hover {
+  opacity: 0.8;
+}
+.button:focus {
+  outline: none;
+}
