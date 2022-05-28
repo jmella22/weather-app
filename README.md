@@ -27,8 +27,7 @@ Weather App es una SPA (Single Page Application) que consume información de una
 3. npm start
 
 ## Deploy:
-<a href="https://weather-app-jmella22.vercel.app/" target="blank">Click me<a/>
+<p><a href="https://weather-app-jmella22.vercel.app/" target="blank" >Click me<a/></p>
   
 ## Other Networks
-  
-   <a href="https://linkedin.com/in/josemellar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lemorles" height="30" width="40" /></a>
+  <p><a href="https://linkedin.com/in/josemellar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lemorles" height="30" width="40" /></a></p>
